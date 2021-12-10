@@ -11,7 +11,7 @@ import {
 import Fuse from 'fuse.js'
 
 const imageJsonUrl =
-  'https://timespace-content-market.github.io/react-native-country-picker-modal/countries/'
+  'https://timespace-content-market.github.io/rn-country-select-modal/countries/'
 
 type CountryMap = { [key in CountryCode]: Country }
 
